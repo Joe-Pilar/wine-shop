@@ -9,6 +9,7 @@ application/logs/*
 !application/*/.htaccess
 
 application/config/config.php
+application/config/database.php
 
 composer.lock
 tests/mocks/database/ci_test.sqlite
